@@ -1,0 +1,73 @@
+What is Web Scraping?
+Web scraping is the automated process of extracting information from websites by using computer
+programs or scripts. This technique involves sending a request to a website, retrieving the HTML
+code of the requested page, parsing the HTML to understand its structure, and then extracting
+relevant data. Web scraping is commonly done using programming languages like Python and
+libraries such as BeautifulSoup or Scrapy. It serves various purposes, including data extraction,
+price comparison, news aggregation, and website monitoring. It's important to be aware of the
+legal and ethical implications of web scraping, as it can potentially violate a website's terms of
+service if performed without permission. Therefore, it's crucial to review and adhere to the terms
+and conditions of a website before engaging in any scraping activities.
+
+Different Types of Web Scrapers?
+Web scrapers come in various types, and their design depends on the specific requirements of the
+scraping task. Here are some common types of web scrapers:
+
+1. Basic HTML Scrapers:
+- These scrapers extract data directly from HTML code.
+- They are suitable for simple scraping tasks where the data is readily available in the page
+source.
+
+2. DOM Scrapers:
+
+- These scrapers leverage the Document Object Model (DOM) to navigate and
+extract data from the structured representation of the HTML page.
+
+3. API Scrapers:
+
+- Some websites provide APIs (Application Programming Interfaces) that allow
+developers to access data in a structured format.
+- API scrapers interact with these APIs to extract data, which is often a more reliable
+and efficient method compared to traditional scraping.
+
+4. Browser Automation Scrapers:
+
+- These scrapers use browser automation tools like Selenium to simulate human
+interaction with a website.
+- They can handle complex tasks that involve interacting with dynamic content and
+performing actions like clicking buttons or filling forms.
+
+Different Web Scraping tools
+
+1. Octoparse:
+- Octoparse is a user-friendly visual scraping tool that allows users to point-and-click
+to extract data from websites. It supports both static and dynamic websites and provides
+features for data cleaning and transformation.
+
+2. Beautiful Soup:
+- Beautiful Soup is a Python library for pulling data out of HTML and XML files. It
+provides Pythonic idioms for iterating, searching, and modifying the parse tree, making it
+a popular choice for web scraping tasks.
+
+3. Scrapy:
+- Scrapy is an open-source web crawling framework for Python. It is designed to
+handle large-scale web scraping projects and provides tools for extracting data, processing
+it, and storing it in various formats.
+
+octoparse steps
+
+Step 1: Pasting URL of Formula 1 Official Twitter Account
+
+Step 2: Select the tweets to analyze and what part of the tweet to analyze
+
+Step 3: The Data from the selected fields and the tweet will be shown below, we can add and
+remove the data from the bar.
+
+Step 4: Create a Workflow so that the Octoparse can parse and collect multiple tweets in a
+single go
+
+Step 4: Execute the Workflow using Run command and data will be shown. We can export the
+data using the Export button. Data can be exported In Excel , CSV and even in SQL format.
+
+Step 5: The data will be processed and the data will be stored on the local machine in the
+required format

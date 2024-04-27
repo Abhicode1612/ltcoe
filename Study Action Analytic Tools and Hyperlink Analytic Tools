@@ -1,0 +1,124 @@
+Case Study 1: Action Analytic Tools
+Analytics is essential in making sense of ever-growing mountains of data. Data analysts risk
+getting lost in this increasingly treacherous terrain without a destination and direction. Action
+Analytics is a framework that provides this clear destination and direction, namely to change
+actions. While this may sound simple at first, it leads to a number of useful and uncommon best
+practices for data analysts and decision makers.
+Action Analytics is an independent consultancy of industry-leading data and visualization
+experts, known as the Actionauts. They specialize in helping organizations make informed
+decisions by transforming complex data into actionable insights.
+Different Analytics tools are as follow:
+There are numerous analytics tools available, each with its own features, strengths, and
+weaknesses. These tools can be broadly categorized based on their functionalities and purposes.
+Here are some common types of analytics tools:
+1. Web Analytics Tools:
+- Google Analytics
+- Adobe Analytics
+2. Business Intelligence (BI) Tools:
+- Tableau
+- Microsoft Power BI
+3. Predictive Analytics Tools:
+- SAS Predictive Analytics
+- IBM SPSS Modeler
+4. Social Media Analytics Tools:
+- Hootsuite
+- Sprout Social
+5. Text Analytics Tools:
+- Lexalytics
+- RapidMiner
+
+6. Big Data Analytics Tools:
+- Apache Hadoop
+- Apache Spark
+7. Real-Time Analytics Tools:
+- Apache Kafka
+- Amazon Kinesis
+8. Data Visualization Tools:
+- Tableau
+- Microsoft Power BI
+9. Customer Relationship Management (CRM) Tools:
+- Salesforce
+- HubSpot
+10. E-commerce Analytics Tools:
+- Shopify Analytics
+- WooCommerce Analytics
+11. Healthcare Analytics Tools:
+- SAS Healthcare Analytics
+- IBM Watson Health
+12. Supply Chain Analytics Tools:
+- Oracle Supply Chain Management
+- SAP Integrated Business Planning
+These are just some examples, and there are many other analytics tools available in the market
+catering to various specific needs and industries. Choosing the right tool depends on factors
+like the organization's requirements, budget, data volume, technical expertise, and specific use
+cases.
+We are studying the TweetBinder Tool for Action Analytics. We considering tag
+#MOTOROLA
+
+hashtag Action Analytics.
+
+Step 1: Search TweetBinder on Google (https://www.tweetbinder.com/blog/tweetreach/)
+
+Step 2: It will show a summary of actions.
+
+Step 3: Go through all the actions, such as Activity
+
+Step 4: In Engagement it shows total no of impression , number of likes, retweet and other
+actions.
+
+Step 5: Sentiment Score tells about the contribution, posts and impression in Pie-chart.
+
+Step 6: It displays sentiment timeline and stats. Sentiment timeline depends on positive,
+negative, neutral and undefined tweets.
+
+
+Hyperlink analytics tools, also known as web analytics tools, are software applications
+used to analyze and measure the performance of hyperlinks on websites. These tools provide
+insights into how users interact with hyperlinks, including click-through rates, referral sources,
+user demographics, and other relevant metrics. Hyperlink analytics tools are crucial for website
+owners, marketers, and web developers to understand user behavior, optimize website
+performance, and improve conversion rates.
+Types of Hyperlink Analytics Tools:
+1. Basic Web Analytics Tools:
+These tools provide fundamental insights into website traffic, including the performance of
+hyperlinks.
+They track metrics such as page views, unique visitors, bounce rates, and referral sources.
+Examples: Google Analytics, Adobe Analytics, Matomo (formerly Piwik), Kissmetrics.
+2. Heatmap Tools:
+
+Heatmap tools visually represent user interactions with hyperlinks and other elements on
+web pages. They highlight areas of high and low user engagement, helping website owners
+identify which hyperlinks are most effective.
+Examples: Crazy Egg, Hotjar, Mouseflow.
+3. Link Tracking Tools:
+Link tracking tools specifically focus on tracking individual hyperlinks' performance across
+different channels. They provide detailed insights into click-through rates, conversion rates,
+and user engagement for each hyperlink.
+Examples: Bitly, ClickMeter, Rebrandly.
+4. A/B Testing Tools:
+A/B testing tools allow website owners to create multiple versions of hyperlinks or web
+pages and compare their performance. They help optimize hyperlinks by testing different
+variations to determine which ones generate the highest click-through rates and conversions.
+Examples: Optimizely, VWO (Visual Website Optimizer), Google Optimize.
+5. E-commerce Analytics Tools:
+These tools are tailored specifically for e-commerce websites and focus on analyzing
+hyperlinks related to product pages, shopping carts, and checkout processes. They track metrics
+such as conversion rates, average order value, and shopping behavior.
+Examples: Shopify Analytics, WooCommerce Analytics, Magento Analytics.
+6. Social Media Analytics Tools:
+Social media analytics tools track the performance of hyperlinks shared on various social
+media platforms. They provide insights into clicks, shares, likes, and other engagement metrics
+for hyperlinks shared on platforms like Facebook, Twitter, LinkedIn, and Instagram. Examples:
+Hootsuite, Buffer, Sprout Social.
+
+Hyperlink Analytics
+
+Step1: Enter URL
+
+Step2: Check Results
+Step 3: Access the External Links and download report in excel format
+
+Step 4: Access the Excel File
+
+
+

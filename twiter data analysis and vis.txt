@@ -1,0 +1,57 @@
+An Analysis of Twitter Posts on________ and visualization.
+
+1.NEP ( new educational Policy)
+2. Agnipath scheme
+3.Ujjwala Yojana
+4. T20
+5.Rahul Gandhi / Gautam Adani
+6. Your favorite product / brand
+7. Hospital/ Hotel/ any service industry
+8.G20
+9.Your favorite actor/ movie
+10.Your favorite place
+
+-------------------------------------------------
+
+Twitter Data Cleaning and Preprocessing using Python.
+NLTK is a comprehensive library for NLP and text processing. It includes tools and resources for
+tasks like tokenization, stemming, tagging, parsing, and more.
+1. Handling NaN Values:
+Checks if the tweet text is missing (NaN). If it is, the function returns an empty string to avoid
+errors during processing.
+2. Lowercasing:
+Converts all text to lowercase. This ensures consistency in text processing, as uppercase and
+lowercase versions of the same word would otherwise be treated differently.
+
+3. Removing URLs:
+Deletes any URLs present in the tweet text. URLs don't typically contribute to the meaning of
+the text and can be safely removed.
+4. Removing Usernames and Hashtags:
+Eliminates usernames (e.g., @username) and hashtags (e.g., #topic) from the text. These
+elements are specific to social media platforms like Twitter and are often not relevant for
+analysis.
+5. Removing Special Characters:
+Deletes any special characters (e.g., punctuation marks, symbols) from the text. Special
+characters may interfere with text analysis algorithms and are usually unnecessary for
+understanding the text's content.
+6. Removing "RT" (Retweet) Tag:
+Eliminates the "RT" tag often found at the beginning of retweets. This tag indicates that the
+tweet is a retweet and is usually not relevant for analysis.
+7. Removing Mentions, URLs, and Special Characters:
+Removes any mentions of other users, URLs, and additional special characters. This ensures
+that only the main text content remains, without any metadata or extraneous information.
+8. Removing Single Characters:
+Deletes single characters surrounded by whitespace. These single characters are typically not
+meaningful on their own and are removed to improve text readability.
+9. Removing Multiple Spaces:
+Reduces multiple consecutive whitespace characters to a single space. This ensures that the text
+is formatted correctly and doesn't contain unnecessary whitespace.
+10. Stripping Leading and Trailing Whitespace:
+Removes any leading or trailing whitespace from the text. This step ensures that the text is clean
+and doesn't contain any extra space characters at the beginning or end.
+
+Twitter Data Visualization using word cloud.
+A word cloud is a visual representation of text data, where the size of each word indicates its
+frequency or importance within the text. In a word cloud, more frequently occurring words are
+typically displayed in larger font sizes, making them visually prominent, while less frequent words
+appear smaller.
